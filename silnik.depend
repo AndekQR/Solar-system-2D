@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542122304 source:f:\weaii\semestr 5\grafika komputerowa\silnik\main.cpp
+	<iostream>
+	<allegro.h>
+	<vector>
+	<cstring>
+	<map>
+	<algorithm>
+	<winalleg.h>
+
